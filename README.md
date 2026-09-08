@@ -12,11 +12,6 @@
 
 <br>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Skyelima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyelima&layout=compact&theme=radical"/>
-</div>
-
 <br>
 
 ## 🛠️ My Skills
